@@ -4,7 +4,8 @@ dist/
 .astro/
 
 #blog articles
-dist/src/content/blog/
+src/content/blog/
+
 # dependencies
 node_modules/
 
